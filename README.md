@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @ThakurSaAbhay aka Abhay Pratap Singh
 - 👀 I’m interested in new techonlogies, android development and web development.
-- 🌱 I’m currently collaborating with The Oppia Foundation 
+- 🌱 I’m currently learning. 
 - 📫 Email: thakursaabhay@gmail.com
 
 ## 🛠 &nbsp;Tech Stack
